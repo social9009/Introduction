@@ -321,13 +321,14 @@ A fully automated, secure, production-ready CI/CD platform with integrated DevSe
 
 <div align="center">
 
-![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=social9009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=social9009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=social9009&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=social9009&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=social9009&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=social9009&theme=tokyonight&hide_border=true)
 
 </div>
+
 
 ---
 
