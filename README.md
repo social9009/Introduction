@@ -321,11 +321,11 @@ A fully automated, secure, production-ready CI/CD platform with integrated DevSe
 
 <div align="center">
 
-![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=social9000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=social9009&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=social9009&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -335,7 +335,7 @@ A fully automated, secure, production-ready CI/CD platform with integrated DevSe
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=social9009&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
 
