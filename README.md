@@ -4,8 +4,10 @@
 
 <br/><br/>
 
-![Profile Views](https://github.com/social9009=social9009E&color=00c9ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://github.com/social9009/ghpvc/?username=social9009&color=00c9ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=00c9ff)](https://github.com/YOUR_GITHUB_USERNAME)
+
+</div>
 
 </div>
 
