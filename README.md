@@ -1,6 +1,6 @@
-AWS DevOps Engineer | AWS Solutions Architect Associate | Building scalable CI/CD, Kubernetes, Terraform & DevSecOps pipelines on AWS
 
 # Hi, I'm Akshay Sawant 👋
+AWS DevOps Engineer | AWS Solutions Architect Associate | Building scalable CI/CD, Kubernetes, Terraform & DevSecOps pipelines on AWS
 
 ## AWS DevOps Engineer | Cloud Automation | CI/CD | Kubernetes | DevSecOps
 
