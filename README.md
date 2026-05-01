@@ -4,7 +4,7 @@ AWS DevOps Engineer | AWS Solutions Architect Associate | Building scalable CI/C
 
 ## AWS DevOps Engineer | Cloud Automation | CI/CD | Kubernetes | DevSecOps
 
-AWS DevOps Engineer with **3.5 years of hands-on experience** in **cloud infrastructure, automation, CI/CD, containerization, monitoring, and security**.  
+AWS DevOps Engineer with **hands-on experience** in **cloud infrastructure, automation, CI/CD, containerization, monitoring, and security**.  
 I specialize in building **scalable, secure, and reliable AWS environments** using **Terraform, Jenkins, Docker, Kubernetes, Ansible, and GitOps practices**.
 
 I enjoy automating infrastructure, optimizing deployment workflows, improving application reliability, and integrating security into every stage of the delivery pipeline.
