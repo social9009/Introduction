@@ -19,10 +19,10 @@
 💼  AWS DevOps Engineer @ Swiftsoft Infotech Services Pvt. Ltd  (Sept 2022 – Present)
 ⏳  4+ Years of Hands-on DevOps & Cloud Experience
 🏆  Certified: AWS Solutions Architect Associate
-🎓  B.E. Mechanical Engineering — Shivaji University, Pune
+🎓  B.E. Mechanical Engineering — Pune University, Pune
 📍  Hinjawadi, Pune, Maharashtra, India
 📧  akshaysawant9009@gmail.com
-🌍  Languages: English | Hindi | Marathi
+🌍  Languages: English | Hindi | Marathi 
 ```
 
 <br/>
